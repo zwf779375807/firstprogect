@@ -1,5 +1,7 @@
 package com.example.administrator.myapplication;
 
+import android.support.annotation.MainThread;
+
 /**
  * description:
  * Author:ZWF
@@ -7,4 +9,7 @@ package com.example.administrator.myapplication;
  * data 2016/4/18.
  */
 public class tt {
+    public void main(String [] args){
+
+    }
 }
