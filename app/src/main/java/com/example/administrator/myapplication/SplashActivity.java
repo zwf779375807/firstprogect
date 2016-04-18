@@ -6,7 +6,7 @@ import android.os.Bundle;
 
 public class SplashActivity extends Activity {
     /**
-     *测试
+     *测试提交
      * @param savedInstanceState
      */
     @Override
